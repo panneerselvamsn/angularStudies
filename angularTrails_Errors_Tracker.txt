@@ -1,0 +1,5 @@
+problem:1
+npm ERR! code Z_BUF_ERROR
+
+solution:2
+deleted the npm and npm-cache folder and tried the "npm install -g @angular/cli@latest" 
